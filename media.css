@@ -1,0 +1,68 @@
+
+@media (max-width: 1300px) {
+body {
+	background-color: red;
+	}
+	}
+	
+@media (min-width: 1000px) {
+.from {
+        	display:none;
+		}
+			}
+@media (min-width: 900px) and (max-width: 1000px){
+body {
+	background-color: yellow;
+	}
+	}
+			
+@media (min-width: 900px) {
+.age {
+        	display:none;
+
+		}
+			}
+@media (min-width: 800px) and (max-width: 900px){
+body {
+	background-color: cyan;
+	}
+	}
+
+@media (min-width: 800px) {
+.sis {
+        	display:none;
+
+		}
+			}		
+
+@media (min-width: 700px) and (max-width: 800px) {
+body {
+	background-color: orange;
+	}
+	}			
+			
+@media (min-width: 700px) {
+.blue {
+        	display:none;
+
+		}
+			}	
+			
+@media (min-width: 600px) and (max-width: 700px) {
+body {
+	background-color: teal;
+	}
+	}					
+			
+@media (min-width: 600px) {
+.senior {
+        	display:none;
+
+		}
+			}	
+				
+@media (max-width: 600px) {
+body {
+	background-color: pink;
+	}
+	}					
